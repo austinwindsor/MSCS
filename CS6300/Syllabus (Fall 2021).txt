@@ -1,0 +1,175 @@
+﻿________________
+
+
+CS 6300: Software Development Process
+Course Syllabus – Fall 2021
+________________
+
+
+Instructor Information
+Instructor:
+	Alessandro Orso
+	Email:
+	orso@cc.gatech.edu
+(use only private messages on Ed Discussion during the semester)
+	Office hours:
+	Weekly, online (live), day/time announced on Ed Discussion
+	TA Team:
+	See Canvas and Ed Discussion
+	________________
+
+
+General Course Information
+Description
+This is a graduate-level, hands-on course about software engineering. The goal of the course is to study and learn the way software is specified, designed, developed, verified, and maintained. Throughout the course, students will have to complete a set of individual assignments, a group project, and an individual project. By the end of the course, students will understand the role of software processes in the development of software and will have experienced several types of processes, from rigid to agile. Students will also be exposed and become familiar with a variety of modern technologies and tools and understand their connection to software processes.
+Prerequisites
+There are some prerequisites we expect the students to satisfy to be successful in the class:
+* You should have taken a software engineering course before or have some experience working as a software engineer in a company.
+* You should be familiar with basic software engineering concepts, such as requirements, software design, and software testing.
+* You should be familiar with Java and be comfortable writing code. Knowing another object-oriented language, such as C++ or C#, may be enough, but please keep in mind that all assignments and projects are Java-based. (Every semester, there are students who take the class without satisfying this requirement, hoping to be able to catch up along the way, and they almost always end up regretting it.)
+* You should also be comfortable, or even excited about, learning new technologies and working with software tools.
+* You should have enough flexibility to work with a team that meets (remotely) on a regular basis. You and your teammates will be able to choose how and when to communicate.
+If you don't satisfy one or more of these requirements, you should seriously consider taking the course in a later semester and refresh your knowledge of the above topics in the meanwhile.
+I would also like to add something that may be a bit controversial but about which I feel fairly strongly. The online MS programs offered by Georgia Tech are not professional education programs. There are many such programs, but you applied to this one because you want to get an actual MS in CS from Georgia Tech, not a professional education certificate. In this spirit, I strive to offer a course that has the same quality as an on-campus one but is also just as demanding. I understand that most of you have daily jobs and families, but so do many on-campus students, and we do not treat them any differently. I hope this makes sense to you and helps you understand some of the decisions we make, in particular with respect to deadlines and extensions.
+Course Materials
+The only materials required are the online lessons and a few additional readings that will be provided in due time. In particular, no specific textbook is required. Ideally, you should have access to a software engineering introductory book and/or online resources.
+You can find a set of unofficial notes for the class at https://goo.gl/5cwgnb. Many thanks to Shipra De, one of the students who took the class in Fall 2014, for creating them!
+Important disclaimer: These notes were created by a student without any help or input from us, so we do not officially endorse them and just provide them as is, hoping that you find them useful. Feel free to let me know how you like them and whether you have any comments or feedback, which I will be happy to relay to Shipra. I will also use your feedback, if any, to decide whether to make the notes available for future offerings of the course.
+Platforms Used in the Course
+You will have to use and be familiar with four platforms when taking this class: (1) Canvas, (2) Ed Discussion, and (3) Microsoft Teams or BlueJeans. I discuss these platforms below.
+Canvas
+Canvas is your main stop, as it is where you will (1) get and submit all of your assignments (mostly through an external link to Gradescope) and project deliverables, (2) access your grades, and (3) see the class videos (possibly through an external link to Ed Lessons).
+* Getting started: Make sure to check the “Let’s Get Started” page in the “Welcome to CS6300: Software Development Processes!” Module“ on the Module” tab for information on navigating the different Canvas features and settings.
+* Assignment deadlines: You can access all assignments by selecting the “Modules” tab on Canvas. When in doubt about the deadline for an assignment, you can always check Canvas, as all assignments are listed there in the "Modules" section. To avoid problems, you should make sure to configure Canvas so that all deadlines reflect your local timezone. To do so, you should go to Canvas ➡ Account ➡ Settings ➡ Edit Settings and Time Zone and select your local time zone. Also, please note that the deadline for assignments is the “Due” date, whereas the “Until” date indicates the late submission deadline (see the Late-Submission Policy section below).
+* Online lectures: The online lectures are also available in the “Modules” tab on Canvas, below the assignments.[1]
+Ed Discussion
+Ed Discussion is our online forum, which we will use to communicate with students.
+* Accessing Ed Discussion: To access the forum, click the Ed Discussion link on the Canvas page for this class (on the menu on the left). We will add your official GT emails to Ed Discussion before the class starts. If you have registered for (or been added to) the class after classes started, you may get a message that an access code is required when using the Ed Discussion link until your email is added to the Ed Discussion roster, which happens daily.  In this case, please do not contact the instructors to ask for the code and allow instead a day for that process after you have been added to Canvas (and watch your official email for notice that you have been added). Please make sure that your primary <gt username>@gatech.edu email address is listed in the Ed Discussion email settings as either the primary or one of the “other” email addresses.
+* Class-related communications: Make sure to use Ed Discussion, rather than email or Canvas messages, for ALL class-related communications. We can miss email messages, but we are careful about checking messages on Ed Discussion and making sure that your questions are answered in a timely fashion. Most importantly, by asking questions on Ed Discussion, you can benefit from the collective knowledge of your classmates, instructors, and TAs. For this reason, I encourage you to ask questions publicly, rather than privately to the instructors, as that maximizes your chances to get a prompt reply and, most importantly, allows your classmates to see questions, answers, and discussions that can benefit them. In fact, sometimes we wait before responding to posts because we want to encourage student responses and discussions. It is just as important that you also check Ed Discussion postings regularly.
+* Keeping up with Ed Discussion: Besides benefitting from questions, answers, and discussions, as mentioned above, Ed Discussion is where we post announcements and other useful information about the class, and we assume that you read these announcements. Finally, posts are clearly appreciated, but please don't feel like you have to post at all costs. You can get 100% Ed Discussion participation by simply following the discussions on Ed Discussion. (Ed Discussion keeps track of each student's online presence.) In other words, just make sure that you check updated, unresolved, and unread posts on a regular basis, and you will be fine even if you do not post yourself.[2] This also helps to avoid duplicate postings, in which students ask questions that have already been asked (and often answered). 
+* Duplicate posts: Please make sure to check the existing posts before asking a question: duplicated posts waste both our and your time. For similar reasons, you should also make sure to read the assignments carefully before posting questions about them on Ed Discussion. Finally, many of the questions we receive on Ed Discussion can be answered with a simple web search, so please make sure to try that before posting on Ed Discussion, which frees up resources for more interesting questions, answers, and discussions.
+* Our response time on Ed Discussion: We do our best to respond to Ed Discussion messages daily, or at most every couple of days (depending on volume and other factors). If you don’t get an answer to a post within 48 hours, feel free to post a follow-up, but please avoid doing so a few hours after posting (i.e., we do our best to be responsive on Ed Discussion, but the forum is not a 24/7 hotline :-). Please also avoid reposting the same message twice to get more attention; you should add a follow-up to your existing post instead. Related to the previous point, I try to answer most of the posts that are not grading challenges myself, but that creates issues during particularly busy weeks. (Just to give you an idea, I sometimes spend about an hour every day on Ed Discussion.) In the last few semesters, I may therefore delegate some of the day-to-day Ed Discussion interactions to the TA team. However, I am actively following Ed Discussion and am happy to answer questions directly addressed to me, which I also do during the weekly office hours. Feel also free to reach out to me with direct Ed Discussion messages if you have complaints about some specific interactions. If you do so, please point me to specific posts involved, as that allows me to get context and suitably discuss the issue with the TA team.
+Bluejeans
+We use either BlueJeans for the course office hours, which we will hold weekly, typically on Wednesday or Thursday. You will be able to attend the office hours synchronously or asynchronously (i.e., after the fact). The office hours will consist of two parts: announcements and Q&A. You will be able to post on Ed Discussion your questions beforehand. We strongly recommend you to watch (and even better, participate in) the weekly office hours, as not watching them will likely result in you missing important information about the course, hints about the assignments, and so on. The day, time, and link for the office hours will be announced on Ed Discussion, but please note that there will be no office hours during the first week of classes.
+Tools Used in the Course
+We will use several tools in this class, including:
+* Git
+* Java Development Kit Version 11 or 12
+(freely available from either Oracle or Open JDK)
+* IntelliJ IDEA Ultimate Edition[3]
+(free for students: https://www.jetbrains.com/shop/eform/students)
+* Android Studio (Version 3 or higher)
+* A UML editor (of your choice)
+We provide a Virtual Machine (VM) that you can use to complete your assignments and projects (see https://goo.gl/ZdEf7X). The use of the VM is completely optional, and the VM is provided only as a convenience. In fact, we strongly recommend that students install the needed tools on their own machines, as installing and using the VM is not necessarily straightforward for all students (based on our experience). Moreover, a VM tends to be slower than a native solution, especially when you have to run things such as an Android emulator.
+Minimum Technical Requirements
+   * High-speed Internet connection 
+   * Laptop or desktop computer with a minimum of a 2 GHz processor and 2 GB of RAM
+   * Windows, Mac OS X, or Linux operating systems
+   * Mozilla Firefox, Chrome, and/or Safari browsers
+Grading, Assignments, and Projects
+Assignments and Projects
+To successfully complete the class, you will have to do a set of individual assignments, a group project, and an individual project. We will provide complete information about assignments and projects on Canvas and Ed Discussion in due time. You are welcome and encouraged to form study groups yourselves, but project teams will be assigned by us based on the information you provide in the team matching survey, which allows us to create teams that are as much as possible balanced in terms of expertise and compatible in terms of schedule. Please do not ask us to form teams yourself or provide us with the names of other students that you would like to have in your team. Please also note that your performance in the group project, which we will assess through a peer evaluation performed by all team members, will determine your collaboration grade.
+Release Dates
+We typically release most assignments slightly over one week before they are due. Please do not ask us to post assignments in advance, as we feel strongly about this, and it has been our experience that this approach works way better than releasing assignments early and having multiple assignments open at the same time. In particular, (1) there are dependencies between some of the assignments that prevent us from having overlaps, and (2) the interaction on Ed Discussion works considerably better if students are in sync.
+Please also note that we cannot post assignments in advance for individual students. For a class that has hundreds of students, doing so would be a logistical nightmare and would likely be error-prone. Consider that we typically receive multiple requests, for different dates, and please imagine what it means to set up different release dates (and possibly keeping track of the different deadlines) for different students.
+I can assure you that we scope assignments so that they are very doable in a week's worth of work for a 3-credit-hour class, which should be about 10 hours. Some students may need a bit more time than that, and some students a bit less, but we solve all assignments ourselves before releasing them to make sure that we did not grossly underestimate their level of difficulty and the time required to complete them.
+Due Dates
+Most of the deadlines for assignments and deliverables are on Sunday at 11:59 PM AOE. (As stated above, we recommend that you go to Canvas ➡ Account ➡ Settings ➡ Edit Settings and Time Zone and select your local time zone, to see all deadlines in your own time zone.)
+Submission Instructions
+We use Georgia Tech’s GitHub for all submissions, and you should upload your work only to the two GitHub repositories we will provide for you: one for your individual work, and one for your teamwork. Posting your code on a different repository will prevent us from accessing and grading your work. Posting your work in any public repository, either during the course of the class or afterward, is a violation of the Honor Code and facilitates future students’ cheating. We take this very seriously. Specific submission instructions will be included with the project and assignment descriptions on Canvas. Typically, this will include pushing all required files to the assigned repository and submitting a single, final commit ID to Canvas.
+Late-Submission Policy
+Students get 50% of the grade for an assignment if they turn it in within two days after the regular deadline. Please note that an assignment that is re-submitted after the regular deadline will be counted as late even if you have an earlier submission (for obvious reasons). After the late submission deadline has passed, you won't be able to submit your assignment and will get 0 points for it. To be fair to all students, we have a strict policy about extensions. In very large classes, rare circumstances are not that rare, and in fact, we receive several valid requests for extensions for each assignment. If extreme and unforeseen circumstances are preventing you from completing an assignment on time, please take the following steps as soon as possible:[4]
+   1. Contact the office of the Dean of Students and provide them with all the necessary details and documentation (see http://studentlife.gatech.edu/, where you should click on "REQUEST ASSISTANCE" and fill out the form that opens after clicking).
+   2. Contact us and confirm that you have provided the required documentation to the office of the Dean of Students.
+The office of the Dean of Students will check your documentation and follow up with me. At that point, I will be able to take the appropriate action and follow up with you. Just to avoid misunderstandings, please note that going on vacation or getting married can hardly be considered extreme and unforeseen circumstances :-)
+Grading Timing
+We normally return grades for an assignment within two weeks after it closes. Due to the size of the class, however, and to the number of consistency checks we perform to ensure homogeneous grading, some assignments may require a slightly longer time to be graded.
+Grade Challenges
+If you think we made a mistake in grading one of your assignments or projects, you have two weeks after a given grade has been released to contest it. After that, we will consider the grade final. Grade challenges must be submitted on Ed Discussion by sending a private question in the category “Grade challenges”. The message must provide (1) your GT username (e.g., jdoe44) (and your Team number, in case the grade is for a group project) and (2) a clear statement of what part of the grade is being disputed and why (i.e., a grade challenge is not a blank request for regrading). Unless you have a specific reason to do so, please avoid sending private messages to individual TAs or to me, as that may cause the messages to be missed and responses delayed. Please keep in mind that, if the regrading reveals issues that the TA had initially missed, this may result in a lower grade—this rarely happens, but we had some instances of this situation in the past, so we want to make sure you are aware. If after contacting your TA and the instructor you do not feel your problem has been resolved, you may escalate the issue by emailing oms-advising@cc.gatech.edu and asking that your ticket be assigned to Jay Summet.
+________________
+Grading
+See the table below for how much each graded item counts toward the overall grade for the course. Note that we may change these percentages slightly during the course of the semester.
+Item Description
+	% Overall Course Grade
+	Assignments (see Canvas for details) 
+	44%
+	Group Project (team-based)
+	18%
+	Individual Project
+	25%
+	Collaboration (within the project)
+	10%
+	Participation (Ed Discussion, Lectures and quizzes, Participation Quiz)
+	3%
+	
+
+	
+
+	Your final grade will be assigned as a letter grade according to the following scale, indicatively, and possibly with some upward curving:
+A
+	[90–100]
+	B
+	[80–90)
+	C
+	[70–80)
+	D
+	[60–70)
+	F
+	[0–60)
+	Extra Credit Opportunities
+There are no extra credit opportunities for this class.
+Accommodations for Students with Disabilities
+If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or http://disabilityservices.gatech.edu, as soon as possible, and make an appointment to discuss your special needs and obtain an accommodation letter. Please also send an email to me as soon as possible in order to discuss your learning needs.
+________________
+
+
+Class Policies
+Academic Honesty
+All Georgia Tech students are expected to know and abide by the Georgia Tech Academic Honor Code (http://osi.gatech.edu/content/honor-code). In this class, in particular, although we generally encourage the discussion of the course material, the exercises, assignments, and projects with your classmates, we draw a firm line regarding what sharing and copying is permissible in your coursework. Specifically, you must adhere to the following rules:
+   * If you copy any content verbatim or pseudo-verbatim (e.g., by changing variable names) from existing materials (e.g., StackOverflow), you must cite your source. Failing to provide such citations for borrowed material will be regarded as plagiarism.
+   * Do not copy any content (solutions or parts thereof) from other students in current or previous semesters, even if cited.
+   * Do not post publicly or share any content (solutions or parts thereof) with other students in the class.
+   * When in doubt, don’t hesitate to ask: in this case, it is definitely NOT better to beg for forgiveness than to ask for permission.
+Please keep in mind that we use plagiarism-detection software to identify similarities among submissions and between submissions and online materials (e.g., repositories of students from previous semesters). Because we have access to the same resources you have access to, our plagiarism detector will most likely identify these cases (as it has done in the past).
+Violations of this policy will be subject to the institute’s Academic Integrity procedures, which may include a 0 grade on assignments found to contain violations, additional grade penalties, academic probation or dismissal, and prohibition from withdrawing from the class. The bottom line is that it is not fun for anybody when a case of academic misconduct is discovered, so please avoid collaborating beyond what is allowed by the Georgia Tech Academic Honor Code.
+Communication Policy
+Send questions and personal concerns, including grading questions, privately to “instructors” on Ed Discussion. Do not submit posts of a personal nature or relating to your grades publicly on Ed Discussion.
+When posting messages on Ed Discussion, make sure to keep in mind the following rules/guidelines:
+   * Avoid language that may come across as strong or offensive. Language can be easily misinterpreted in written electronic communication. Review email and discussion board posts BEFORE submitting. Humor and sarcasm may be easily misinterpreted by your reader(s). Try to be as matter-of-fact and professional as possible.
+   * Follow the language rules of the Internet (e.g., do not write using all capital letters).
+   * Feel free to use emoticons, which can be helpful for conveying nonverbal feelings and avoid misunderstandings.
+   * Consider the privacy of others. Ask permission prior to giving out a classmate's email address or other information.
+   * Do not post inappropriate material.
+Note: The instructor reserves the right to remove posts that are not collegial in nature and/or do not meet the rules/guidelines listed above.
+See the section on “Ed Discussion” above for additional communication policies.
+Student-Faculty Expectations Agreement
+At Georgia Tech we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body. See http://www.catalog.gatech.edu/rules/22  for an articulation of some basic expectations that you can have of me and that I have of you.
+________________
+
+
+Closing Remarks
+We modified the class based on our experience with its offerings so far and on the students' feedback. Whereas we can easily change assignments, schedules, and information on the syllabus, the video lectures require (much) more time to be edited. We did our best to update all the parts that could be easily updated, but it is possible that some lectures may contain outdated information about projects or assignments. Please make sure to always trust the information on Ed Discussion and Canvas over the information in the video lectures. And when in doubt, or if you spot any issue, please do not hesitate to ask and let us know. Also, please only watch the lessons listed on the class schedule, as you do not need to watch lessons not listed there (e.g., P1L5).
+________________
+
+
+Schedule
+You can see the detailed schedule this semester at this link. 
+________________
+Subject to Change Statement
+The syllabus may be subject to change. Changes will be communicated via Ed Discussion. It is the responsibility of students to check the Ed Discussion class forum to stay current in their online courses.
+________________
+
+
+________________
+[1] Although you may still be able to watch the lectures on other platforms, we require that you watch them on either Canvas or Ed Lessons, which are the official platforms for the class. 
+
+
+
+
+
+
+
+
+[2] Although Ed Discussion allows students to receive posts by email, we discourage it because it prevents us from assessing Ed Discussion attendance directly.
+[3] We strongly recommend the use of IntelliJ IDEA over Eclipse. The lesson on IDEs covers Eclipse for historical reasons and will eventually be replaced.
+[4] Waiting until a deadline is a few hours away or (even worse) has passed to report an emergency of which you were aware long before that can be problematic, for obvious reasons.
