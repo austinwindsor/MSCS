@@ -1,5 +1,5 @@
 # Lesson 1 Reading
-Assigned reading for week 1 2021/8/23 is chapter 1 of (*"Network Science"* by Albert-laszlo Barabasi)[http://networksciencebook.com/]. I'll go ahead and cover (Chapter 0)[http://networksciencebook.com/chapter/0], the Personal Introduction as well.
+Assigned reading for week 1 2021/8/23 is chapter 1 of [*"Network Science"* by Albert-laszlo Barabasi](http://networksciencebook.com/). I'll go ahead and cover [Chapter 0](http://networksciencebook.com/chapter/0), the Personal Introduction as well.
 
 ## Chapter 0: Personal Introduction
 The author wishes to strongly convey that the rapid growth of network science into the world-tier frontier field that it is today was not inevitable, easy nor straightforward. He demonstrates by way of personal anecdotes.
